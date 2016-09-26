@@ -1,0 +1,67 @@
+[
+  {
+   "id":1,
+    "type": "Condo",
+    "price": 200000,
+    "address": "7830 Rosemere",
+    "description": "Excellent place, really nice view",
+    "details":{
+      "bedrooms":3,
+      "bathroom":2,
+      "area":1242
+    },
+    "images": "image-1-1"
+  },
+  {
+    "id":2,
+    "type": "Duplex",
+    "price": 643000,
+    "address": " 9382 Sainte Rose",
+    "description": "Really nice view",
+    "details":{
+      "bedrooms":2,
+      "bathroom":2,
+      "area":3434
+    },
+    "images": "image-1-2"
+  },
+  {
+    "id":3,
+    "type": "House",
+    "price": 135000,
+    "address": "2050 Laval",
+    "description": "Excellent",
+    "details":{
+      "bedrooms":6,
+      "bathroom":3,
+      "area":8369
+    },
+    "images": "image-1-3"
+  },
+  {
+    "id":4,
+    "type": "Condo",
+    "price": 200000,
+    "address": "323 Saint E",
+    "description": "Excellent place, really nice view",
+    "details":{
+      "bedrooms":3,
+      "bathroom":1,
+      "area":23232
+    },
+    "images": "image-1-4"
+  },
+  {
+    "id":5,
+    "type": "Condo",
+    "price": 353123,
+    "address": "120 Rosemere",
+    "description": "Excellent place, really nice view",
+    "details":{
+      "bedrooms":3,
+      "bathroom":2,
+      "area":23240909
+    },
+    "images": "image-1-5"
+  }
+]
